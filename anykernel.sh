@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=BurningSkull-v1.0
+kernel.string=blackchain
 kernel.for=GLOBAL
-kernel.compiler=gcc
+kernel.compiler=clang
 kernel.made=firxp011
 kernel.version=4.9.337
 do.devicecheck=1
@@ -14,8 +14,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=Sony Xperia XZ2
-device.name2=akari
+device.name1=Samsung Galaxy A02
+device.name2=a02
 supported.versions=
 supported.patchlevels=
 '; } # end properties
